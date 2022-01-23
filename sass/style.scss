@@ -1,4 +1,3 @@
-@import "partials/variables";
 @import "partials/custom";
 @import "../bootstrap-scss/functions";
 @import "../bootstrap-scss/variables";
@@ -25,3 +24,7 @@
 @import "../bootstrap-scss/carousel";
 @import "../bootstrap-scss/spinners";
 @import "../bootstrap-scss/utilities";
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5em;
+}
